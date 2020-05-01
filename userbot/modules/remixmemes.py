@@ -39,15 +39,15 @@ async def _(event):
 
         animation_chars = [
 
-            "👁👁\n  👄  =====> Hey, How are you?",
+            "👁👁\n  👄  =====> Hey, How are you bhsdk?",
             "👁👁\n  👅  =====> Everything okay?",    
             "👁👁\n  💋  =====> Why are you staring at this?",
             "👁👁\n  👄  =====> You idiot",
-            "👁👁\n  👅  =====> Go away",    
+            "👁👁\n  👅  =====> jaa na laude",    
             "👁👁\n  💋  =====> Stop laughing",
             "👁👁\n  👄  =====> It's not funny",
             "👁👁\n  👅  =====> I guess ur still looking",    
-            "👁👁\n  💋  =====> Ok retard 😑",
+            "👁👁\n  💋  =====> chutiya gandu 😑",
             "👁👁\n  👄  =====> I go away then"
         ]
 
@@ -536,7 +536,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 9999$ To @heyworld or gib a pizza party 🍕 To Remove This Hack`"
+            "`Targeted Account Hacked...\n\nPay 9999$ To @dirtyflash or gib a pizza party 🍕 To Remove This Hack`"
         ]
 
         for i in animation_ttl:
@@ -578,7 +578,7 @@ async def _(event):
             "⬜⬜⬜⬜⬜⬜⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬜⬛⬜⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬜⬜⬜⬜⬜⬜",
             "⬛⬛⬛⬛⬛\n⬛⬜⬜⬜⬛\n⬛⬜⬛⬜⬛\n⬛⬜⬜⬜⬛\n⬛⬛⬛⬛⬛",
             "⬜⬜⬜\n⬜⬛⬜\n⬜⬜⬜",
-            "[👉🔴👈](t.me/heyworld)"
+            "[👉🔴👈](t.me/dirtyflash)"
 
  ]
 
